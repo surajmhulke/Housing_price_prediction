@@ -5,10 +5,7 @@ Suraj Hulke is a Data Scientist at HCL Technologies with two years of experience
 
 Suraj's passion for data science and machine learning has led him to contribute to open-source projects and collaborate on innovative solutions. With a commitment to making data science accessible and user-friendly, Suraj's work aims to deliver accurate predictions while maintaining an open-source philosophy.
 
-Feel free to connect with Suraj on GitHub to explore his projects and contribution.
-
-
-Certainly, I can help you make your README better. Below is an enhanced version of your README that incorporates the suggestions mentioned earlier:
+Feel free to connect with on GitHub to explore my projects and contribution.
 
 # Housing Price Prediction in Beijing
 
@@ -118,8 +115,4 @@ The model predicts housing prices with 90% accuracy on test data and 94% accurac
 - Develop a mobile application
 - Reduce model size using Principal Component Analysis (PCA)
 
-## Working Project Video
 
-
-
-This enhanced README is more structured and visually appealing, making it easier for users to understand your project. Please replace `"#"` in the "Watch Video" link with the actual URL to your project video. Feel free to modify it further according to your specific preferences and needs.
